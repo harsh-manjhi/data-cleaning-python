@@ -11,9 +11,11 @@ workflows.
 ## 📂 Repository Structure
 
 ```
+
 notebooks/
 │
-├── lesson1_data_cleaning_duplicates.ipynb
+├── lesson1_data_cleaning_missing_values.ipynb
+├── lesson2_handling_duplicates.ipynb
 ```
 
 Each notebook focuses on a specific data cleaning concept and demonstrates practical techniques.
