@@ -22,10 +22,10 @@ Each notebook focuses on a specific data cleaning concept and demonstrates pract
 
 ##  Notebooks
 
-| Notebook                                                                       | Topics Practiced                              |
-| ------------------------------------------------------------------------------ | --------------------------------------------- |
-| [Lesson 1 — Handling Missing Values](./lesson1_data_cleaning_duplicates.ipynb) | Detecting null values, `fillna()`, `dropna()` |
-
+| Notebook | Topics Covered |
+|--------|----------------|
+| [Lesson 1 — Handling Missing Values](./notebooks/lesson1_data_cleaning_missing_values.ipynb) | Detecting missing values, `isnull()`, `fillna()`, `dropna()` |
+| [Lesson 2 — Handling Duplicates](./notebooks/lesson2_handling_duplicates.ipynb) | Identifying duplicate rows, `duplicated()`, removing duplicates using `drop_duplicates()` |
 ---
 
 ##  Tools & Libraries
